@@ -8,10 +8,10 @@ Hello! I am an Assistant Professor at the [Tilburg Center for Cognition and Comm
 
 ###Projects
 
-##DISCOSUMO
+####DISCOSUMO
 
 
-##NLG for Robot Journalism
+####NLG for Robot Journalism
 
 Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
 [gayanvirajith@gmail.com](gayanvirajith@gmail.com).
