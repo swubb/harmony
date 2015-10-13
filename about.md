@@ -4,17 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
-
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
-
-### Contact me
-
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+Hello! I am an Assistant Professor at the Tilburg Center for Cognition and Communication. My fields of interest are Natural Language Generation and Natural Language Processing. Currently I’m mainly working on sequence to sequence generation, with applications in the domains of sentence simplification, summarization and paraphrasing.
 
 
 [tf]: http://template-factory.nl
