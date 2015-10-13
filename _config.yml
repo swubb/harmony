@@ -11,15 +11,15 @@ url: http://swubb.github.io
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Sander Wubben's academic webpage
+  name: Sander Wubben's webpage
   # Little description about your site
-  description: H
+  description: 
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > # 
     researcher in NLP and NLG
-  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+  basetheme: theme-base-02 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Sander Wubben
     email: s.wubben@uvt.nl
@@ -37,7 +37,7 @@ harmony:
     dribble: 
     pinterest: 
   # Toggle disclaimer in footer
-  show_disclaimer: true
+  show_disclaimer: false
 
 # Conversion / Build settings 
 markdown:    kramdown
