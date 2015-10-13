@@ -10,26 +10,17 @@ Hello! I am an Assistant Professor at the [Tilburg Center for Cognition and Comm
 
 ####DISCOSUMO
 
+In the [DISCOSUMO][discosumo] project we are developing a summarization system for forum threads. We are interested in selecting and summarizing forum post that are relevant for the opening post, and may or may not contain conflicting viewpoints or other subjective information.
 
 ####NLG for Robot Journalism
+In this project a toolkit is developed to aid journalists in the process of writing articles. This system will automate the process of optimizing the readability of the written text. Additionally, we develop an NLG system that takes care of writing articles that would otherwise be monotonous to write for human editors.
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+###Supervision
 
+With [Emiel Krahmer][emiel] I am supervising Thiago Castro Ferreira on his PhD project on referring expression generation. I have supervised over 30 Master's and Bachelor's students.
 
 [ticc]: https://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[discosumo]: https://discosumo.ruhosting.nl
+[emiel]: http://www.emielkrahmer.nl/
+
+
