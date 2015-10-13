@@ -16,7 +16,26 @@
 		</a>
     	</li>
     	{% endif %} 
+    	
+    	{% if site.harmony.social.bitbucket %}
+	 <li>
+        <a title="{{ site.harmony.social.bitbucket }} on Bitbucket" 
+            href="https://bitbucket.com/{{ site.harmony.social.bitbucket }}" 
+            <i class="fa fa-bitbucket"></i>
+		</a>
+    	</li>
+    	{% endif %} 
 
+    	 {% if site.harmony.social.twitter %}
+	  <li>
+	    
+	    <a title="{{ site.harmony.social.twitter }} on Twitter"
+	      href="https://twitter.com/{{ site.twitter_username }}">
+	      <i class="fa fa-twitter"></i> 
+	    </a>
+	  </li>
+	{% endif %}
+	
     {% if site.harmony.social.facebook %}
     <li>
         <a title="{{ site.harmony.social.facebook }} on Facebook" 
@@ -25,16 +44,18 @@
 		</a>
     </li>
     {% endif %}
+    
+        {% if site.harmony.social.reddit %}
+    <li>
+        <a title="{{ site.harmony.social.reddit }} on reddit" 
+            href="https://reddit.com/user/{{ site.harmony.social.reddit }}" 
+             <i class="fa fa-reddit"></i>
+		</a>
+    </li>
+    {% endif %}
 	
 	
-	 {% if site.harmony.social.twitter %}
-	  <li>
-	    
-	    <a href="https://twitter.com/{{ site.twitter_username }}">
-	      <i class="fa fa-twitter"></i> 
-	    </a>
-	  </li>
-	{% endif %}
+
 	
 	
 	
