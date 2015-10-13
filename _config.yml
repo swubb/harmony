@@ -18,7 +18,7 @@ harmony:
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > # 
-    researcher in NLP and NLG
+    researcher in NLP and NLG ( Computational Linguistics and Natural Labguage Generation )
   basetheme: theme-base-02 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Sander Wubben
