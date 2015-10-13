@@ -8,15 +8,37 @@
 
 	<li>                                 </li>
 
-
+	{% if site.harmony.social.github %}
+	 <li>
+-        <a title="{{ site.harmony.social.github }} on Github" 
+-            href="https://github.com/{{ site.harmony.social.github }}" 
+-            <i class="fa fa-github"></i>
+		</a>
+-    	</li>
+-    	{% endif %} 
+-
+-    {% if site.harmony.social.facebook %}
+-    <li>
+-        <a title="{{ site.harmony.social.facebook }} on Facebook" 
+-            href="https://facebook.com/{{ site.harmony.social.facebook }}" 
+-             <i class="fa fa-facebook"></i>
+		</a>
+-    </li>
+-    {% endif %}
+	
+	
 	 {% if site.harmony.social.twitter %}
 	  <li>
 	    
 	    <a href="https://twitter.com/{{ site.twitter_username }}">
-	      /<i class="fa fa-twitter"></i> 
+	      <i class="fa fa-twitter"></i> 
 	    </a>
 	  </li>
 	{% endif %}
+	
+	
+	
+	
 </ul>
 
 
