@@ -4,13 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-
-
-     
-     
-    
-    
-             <b>Text-to-text Generation by Monolingual Machine Translation.</b> Sander Wubben, PhD thesis<br/>
+<b>Text-to-text Generation by Monolingual Machine Translation.</b> Sander Wubben, PhD thesis<br/>
              <font size="-2">&nbsp;</font><br/>
   
              <b>Sentence Simplification by Monolingual Machine Translation.</b> Sander Wubben, Antal van den bosch and Emiel Krahmer.  In <i> Proceedings of the 50th annual meeting of the Association for Computational Linguistics (ACL)</i>, Jeju, South Korea, July 2012. [<a href="publications/sentsimplmt.pdf">pdf</a>]<br/>
