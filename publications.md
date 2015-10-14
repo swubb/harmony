@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Publications
+permalink: /publications/
 ---
 
-
+<a href='bla'>bla</a>
     
     
     
