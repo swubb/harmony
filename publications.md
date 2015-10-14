@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-            <b>Text-to-text Generation by Monolingual Machine Translation.</B> Sander Wubben, PhD thesis
+ Text-to-text Generation by Monolingual Machine Translation. Sander Wubben, PhD thesis
             <font size="-2">&nbsp;</font>
     
 
