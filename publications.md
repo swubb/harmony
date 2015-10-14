@@ -4,21 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-<a href='bla'>bla</a>
-    <ol>
-    <li> aap
-    <li> aaap
-    </ol
+
+            <b>Text-to-text Generation by Monolingual Machine Translation.</B> Sander Wubben, PhD thesis<br />
+            <font size="-2">&nbsp;</font><br />
     
-    <OL>
-      		<LI value=16>
-            <B>Text-to-text Generation by Monolingual Machine Translation.</B> Sander Wubben, PhD thesis<BR />
+	
+            <b>Sentence Simplification by Monolingual Machine Translation.</b> Sander Wubben, Antal van den Bosch and Emiel Krahmer.  In <i> Proceedings of the 50th annual meeting of the Association for Computational Linguistics (ACL)</i>, Jeju, South Korea, July 2012. [<a href="publications/sentsimplmt.pdf">pdf</a>]<br />
             <FONT size="-2">&nbsp;</FONT><BR />
-          </LI>
-		<LI value=15>
-            <B>Sentence Simplification by Monolingual Machine Translation.</B> Sander Wubben, Antal van den Bosch and Emiel Krahmer.  In <i> Proceedings of the 50th annual meeting of the Association for Computational Linguistics (ACL)</i>, Jeju, South Korea, July 2012. [<a href="publications/sentsimplmt.pdf">pdf</a>]<BR />
-            <FONT size="-2">&nbsp;</FONT><BR />
-          </LI>
+     
    
    
    
