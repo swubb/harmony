@@ -5,8 +5,10 @@ permalink: /publications/
 ---
 
 <a href='bla'>bla</a>
-    
-    
+    <ol>
+    <li> aap
+    <li> aaap
+    </ol
     
     <OL>
       		<LI value=16>
