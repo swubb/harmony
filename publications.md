@@ -10,6 +10,10 @@ permalink: /publications/
  <b>Predicting Ratings for New Movie Releases from Twitter Content </b>  Wernard Schmit and Sander Wubben.  In  <i> Proceedings of the 6th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis </i>, pp. 122-126, Lisboa, Portugal,  September 2015. [ <a href="http://aclweb.org/anthology/P/P12/P12-1107.pdf"> pdf </a> ]  [ <a href="http://aclweb.org/anthology/P/P12/P12-1107.bib"> bib </a> ]
 <font size="-2"> &nbsp; </font>  
 
+####2014
+ <b>Creating and using large monolingual parallel corpora for sentential paraphrase generation </b>  Sander Wubben, Antal van den Bosch and Emiel Krahmer. In  <i> Calzolari, N;Choukri, K;Declerck, T (ed.), Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)</i>, pp. 4295-4299, Reykjavik, Iceland,  May 2014. [ <a href="http://www.lrec-conf.org/proceedings/lrec2014/pdf/1135_Paper.pdf"> pdf </a> ]  [ <a href="todo"> data </a> ]
+<font size="-2"> &nbsp; </font>  
+
 ####2013
  <b> Using character overlap to improve language transformation. </b>  Sander Wubben, Emiel Krahmer and Antal van den Bosch.  In  <i> Proceedings of the 7th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH-2013)</i>,  pp. 10-19, Sofia, Bulgaria, 8 augustus 2013. [ <a href="http://aclweb.org/anthology/W/W13/W13-2702.pdf"> pdf </a> ]  [ <a href="http://aclweb.org/anthology/W/W13/W13-2702.bib"> bib </a> ]
 <font size="-2"> &nbsp; </font>  
