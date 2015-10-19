@@ -21,12 +21,12 @@ With [Emiel Krahmer][emiel] I am supervising Thiago Castro Ferreira on his PhD p
 ####Teaching
 I have supervised over 30 Master anf Bachelor theses and taught a.o. the following courses:
 
--Information search
--Social intelligence
--Various courses on Data Processing with Python 
--Interactive Visualization
--Text analysis
--Online Marketing
+* Information search 
+* Social intelligence
+* Various courses on Data Processing with Python 
+* Interactive Visualization
+* Text analysis
+* Online Marketing
 
 
 
