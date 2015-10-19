@@ -16,12 +16,13 @@ permalink: /publications/
  <b>  Text-to-text Generation by Monolingual Machine Translation.  </b>  Sander Wubben, PhD thesis
 <font size="-2"> &nbsp; </font>  
 
-### 2012
+###2012
   
  <b> Sentence Simplification by Monolingual Machine Translation. </b>  Sander Wubben, Antal van den bosch and Emiel Krahmer.  In  <i>  Proceedings of the 50th annual meeting of the Association for Computational Linguistics (ACL) </i> , Jeju, South Korea, July 2012. [ <a href="publications/sentsimplmt.pdf"> pdf </a> ]
 <font size="-2"> &nbsp; </font>  
   
- ### 2011  	
+ ###2011  
+ 
 <b> Comparing Phrase-based and Syntax-based Paraphrase Generation. </b>  Sander Wubben, Erwin Marsi, Antal van den bosch and Emiel Krahmer.  In K. Filippova and S. Wan (Eds.),  <i>  Proceedings of the ACL-HLT Workshop on Text-to-Text Generation </i> , pp. 27-33, Portland, OR, USA, June 2011. [ <a href="http://aclweb.org/anthology-new/W/W11/W11-1604.pdf"> pdf </a> ] [ <a href="http://aclweb.org/anthology-new/W/W11/W11-1604.bib"> bib </a> ] <br/> 
 <font size="-2"> &nbsp; </font>  <br/> 
          
