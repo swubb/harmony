@@ -14,9 +14,21 @@ In the [DISCOSUMO][discosumo] project we are developing a summarization system f
 ####NLG for Robot Journalism
 In this project a toolkit is developed to aid journalists in the process of writing articles. This system will automate the process of optimizing the readability of the written text. Additionally, we develop an NLG system that takes care of writing articles that would otherwise be monotonous to write for human editors.
 
-####Supervision
+####Variation in referring expression generation
 
-With [Emiel Krahmer][emiel] I am supervising Thiago Castro Ferreira on his PhD project on referring expression generation. I have supervised over 30 Master's and Bachelor's students.
+With [Emiel Krahmer][emiel] I am supervising Thiago Castro Ferreira on his PhD project on the variation in referring expression generation. 
+
+####Teaching
+I have supervised over 30 Master anf Bachelor theses and taught a.o. the following courses:
+
+-Information search
+-Social intelligence
+-Various courses on Data Processing with Python 
+-Interactive Visualization
+-Text analysis
+-Online Marketing
+
+
 
 [ticc]: https://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/
 [discosumo]: http://discosumo.ruhosting.nl
