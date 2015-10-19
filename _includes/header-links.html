@@ -10,7 +10,16 @@
 	</li>
 
 	<li> &nbsp;&nbsp;</li>
-
+	
+	{% if site.harmony.social.scholar %}
+	 <li>
+        <a title="{{ site.harmony.social.scholar }} on Google Scholar" 
+            href="https://scholar.google.com/citations?user={{ site.harmony.social.github }}" 
+            <i class="fa fa-graduation-cap"></i>
+		</a>
+    	</li>
+    	{% endif %}
+	
 	{% if site.harmony.social.github %}
 	 <li>
         <a title="{{ site.harmony.social.github }} on Github" 
