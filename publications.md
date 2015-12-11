@@ -7,9 +7,10 @@ permalink: /publications/
 
     
 ####2015
-<b>Facilitating online discussions by automatic summarization </b> Sander Wubben, Suzan Verberne, Emiel Krahmer and Antal van den Bosch. In <i>Proceedings of the 27th Benelux Conference on Artificial Intelligence (BNAIC 2015)</i>, Hasselt, 5-6 November, 2015 [< a href='pubs/BNAIC_2015_dicosumo.pdf'> pdf </a>]
+<b>Facilitating online discussions by automatic summarization </b> Sander Wubben, Suzan Verberne, Emiel Krahmer and Antal van den Bosch. In <i>Proceedings of the 27th Benelux Conference on Artificial Intelligence (BNAIC 2015)</i>, Hasselt, 5-6 November, 2015 [<a href="pubs/BNAIC_2015_dicosumo.pdf"> pdf </a> ]
 
- <b>Predicting Ratings for New Movie Releases from Twitter Content </b>  Wernard Schmit and Sander Wubben.  In  <i> Proceedings of the 6th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis </i>, pp. 122-126, Lisboa, Portugal,  September 2015. [ <a href="http://aclweb.org/anthology/P/P12/P12-1107.pdf"> pdf </a> ]  [ <a href="http://aclweb.org/anthology/P/P12/P12-1107.bib"> bib </a> ]
+ <b>Predicting Ratings for New Movie Releases from Twitter Content </b>  Wernard Schmit and Sander Wubben.  In  <i> Proceedings of the 6th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis </i>, pp. 122-126, Lisboa, Portugal,  September 2015. [ <a href="http://aclweb.org/anthology/P/P12/P12-1107.pdf"> pdf </a> ] 
+ [ <a href="http://aclweb.org/anthology/P/P12/P12-1107.bib"> bib </a> ]
 <font size="-2"> &nbsp; </font>  
 
 ####2014
