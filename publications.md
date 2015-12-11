@@ -14,7 +14,9 @@ permalink: /publications/
 <font size="-2"> &nbsp; </font>  
 
 ####2014
- <b>Creating and using large monolingual parallel corpora for sentential paraphrase generation </b>  Sander Wubben, Antal van den Bosch and Emiel Krahmer. In  <i> Calzolari, N;Choukri, K;Declerck, T (ed.), Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)</i>, pp. 4295-4299, Reykjavik, Iceland,  May 2014. [ <a href="http://www.lrec-conf.org/proceedings/lrec2014/pdf/1135_Paper.pdf"> pdf </a> ]  [ <a href="todo"> data </a> ]
+ <b>Creating and using large monolingual parallel corpora for sentential paraphrase generation </b>  Sander Wubben, Antal van den Bosch and Emiel Krahmer. In  <i> Calzolari, N;Choukri, K;Declerck, T (ed.), Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)</i>, pp. 4295-4299, Reykjavik, Iceland,  May 2014.
+ [ <a href="http://www.lrec-conf.org/proceedings/lrec2014/pdf/1135_Paper.pdf"> pdf </a> ] 
+[ <a href="todo"> data </a> ]
 <font size="-2"> &nbsp; </font>  
 
 ####2013
