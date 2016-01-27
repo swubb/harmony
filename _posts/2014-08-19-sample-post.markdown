@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Sample post from harmony"
-date:   2014-08-19 23:56:45
-description: Just a sample post to show some of the typography elements supported from harmony theme.
+title:  "Analyzing a Confession"
+date:   2016-01-27 23:33:0
+description: A computational look at the Brendan Dassey confession made famous by Making a Murderer
 categories:
 - blog
-permalink: sample-post
+permalink: confession
 ---
 
 Just a sample post to show some of the *typography* elements supported from 
