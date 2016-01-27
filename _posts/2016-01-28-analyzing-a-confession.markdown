@@ -16,10 +16,15 @@ If you haven't seen the true crime documentary series Making a Murderer yet, go 
 In the documentary we see the confession of Steven's nephew, Brendan Dassey. Brendan is a boy with learning disabilities and is interrogated without any help present by two trained policemen for 6 hours. In this interrogation Brendan confesses helping Steven Avery rape and murder Theresa Halbach. On this confession alone he is convicted for life. In Making a Murderer the confession seems extremely fishy, with the detectives Fassbender and Wiegert seemingly feeding Brendan's confession to him. In one part the detectives just tell Brendan he shot the victim in the head because he can't think of it:
 
 > FASSBENDER: Did he say why he wanted you to do that?
+
 > BRENDAN: No. (shakes head “no”)
+
 > WIEGERT: Which knife did you use?
+
 > BRENDAN: The same one he stabbed her with.
+
 > FASASBENDER: And how many times did he stab her again?
+
 > BRENDAN: Once.
 > FASSBENDER: Are you sure about that? (Brendan nods “yes”)
 > WIEGERT: So Steve stabs her first and then you cut her neck? (Brendan nods “yes”) What else happens to her in her head?
