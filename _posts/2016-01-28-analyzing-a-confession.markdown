@@ -60,11 +60,13 @@ Luckily, a PDF transcipt of the interview is available [here](https://www.docdro
 I downloaded the PDF and performed OCR (using Google Docs) to extract the text. I then did some very simple computational analyses of the text using Python.
 
 ###Word clouds
-Analyzing the most frequently used words by all parties, it becomes clear that Brendan acknowledges a lot of the questions asked to him.
 
 ![brendan]
 ![fassbender]
 ![wiegert]
+
+Analyzing the most frequently used words by all parties, it becomes clear that Brendan acknowledges a lot of the questions asked to him. Frequent words for Fassbender are Brendan, tell, us. That seems about right.
+
 
 ###Words uttered during the interview
 
@@ -88,7 +90,7 @@ Words can take us only so far. There are a limited number of words that we can u
 
 ![nbigrams]
 
-Now we really see where the information comes from: it's mainly Fassbender who brings new information to the table.
+Interesting is that during the later stage of the interrogation Fassbender is adding a lot of new information to the conversation. 
 
 
 ###Concluding
