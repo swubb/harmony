@@ -94,7 +94,7 @@ Anyone who wants to dive in, go ahead: the Python notebook and the interrogation
 [brendan]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/brendan.png
 [fassbender]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/fassbender.png
 [wiegert]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/wiegert.png
-[nwords]: https://raw.githubusercontent.comm/swubb/swubb.github.io/master/assets/images/nbwords.png
-[nunique]: https://raw.githubusercontent.comm/swubb/swubb.github.io/master/assets/images/nunique.png
+[nwords]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/nbwords.png
+[nunique]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/nunique.png
 [nbigrams]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/nbigrams.png
 
