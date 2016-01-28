@@ -80,7 +80,7 @@ More interesting are the unique words uttered during the interrogation. Basicall
 
 ![nunique]
 
-As we see here, the difference becomes only bigger. Both detectives utter more new words than Brendan, roughly 1100 versus 450. Interesting is the beginning of the conversation, where both detectives are uttering a lot of new words and Brendan is not really adding anything. 
+As we see here, the difference becomes only bigger. Both detectives utter more new words than Brendan, roughly 1100 versus 450. Interesting is the beginning of the conversation, where both detectives are uttering a lot of new words and Brendan is not really adding all that much. 
 
 ###Unique bigrams uttered during the interview
 
@@ -89,7 +89,6 @@ Words can take us only so far. There are a limited number of words that we can u
 ![nbigrams]
 
 Now we really see where the information comes from: it's mainly Fassbender who brings new information to the table.
-
 
 
 ###Concluding
