@@ -13,6 +13,8 @@ permalink: confession
 ### Brendan Dassey's confession
 If you haven't seen the true crime documentary series Making a Murderer yet, go watch it! The Netflix series gives a fascinating insight in the  American justice system and how it seems to fail to adhere to the principle of guilty beyond reasonable doubt. 
 
+![confession]
+
 One of the most cringe worthy things we see in the documentary is the confession of Steven's nephew, Brendan Dassey. Brendan is a boy with learning disabilities and is interrogated without any help present by two trained policemen for 6 hours. In this interrogation Brendan confesses helping Steven Avery rape and murder Theresa Halbach. It is this confession alone that leads to his conviction for life and it helps in the conviction of Steven Avery. We see some  parts of the interrogation in the documentary, such as the part below.
 
 > FASSBENDER: Did he say why he wanted you to do that?
@@ -99,7 +101,7 @@ Anyone who wants to dive in, go ahead: the Python notebook and the interrogation
 
 
 
-
+[confession]: https://ak-hdl.buzzfed.com/static/2015-12/29/17/enhanced/webdr13/longform-22497-1451427857-3.jpg
 [brendan]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/brendan.png
 [fassbender]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/fassbender.png
 [wiegert]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/wiegert.png
