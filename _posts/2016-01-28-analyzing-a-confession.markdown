@@ -65,7 +65,7 @@ I downloaded the PDF and performed OCR (using Google Docs) to extract the text. 
 ![fassbender]
 ![wiegert]
 
-Analyzing the most frequently used words by all parties, it becomes clear that Brendan acknowledges a lot of the questions asked to him. Frequent words for Fassbender are Brendan, tell, us. That seems about right.
+Analyzing the most frequently used words by all parties, it becomes clear that Brendan acknowledges a lot of the questions asked to him. Frequent words for Fassbender are *Brendan, tell, us*. That seems about right. Also note that the detectives frequently use the words *honest, truth, anything*. They seem to be working hard to pull new information out of Brendan.
 
 
 ###Words uttered during the interview
