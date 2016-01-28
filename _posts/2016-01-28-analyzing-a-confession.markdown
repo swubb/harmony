@@ -91,10 +91,10 @@ Anyone who wants to dive in, go ahead: the Python notebook and the interrogation
 
 
 
-[brendan]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/brendan.png
-[fassbender]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/fassbender.png
-[wiegert]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/wiegert.png
-[nwords]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/nbwords.png
-[nunique]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/nunique.png
-[nbigrams]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/nbigrams.png
+[brendan]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/brendan.png
+[fassbender]: https://raw.githubusercontent.com/swubb/swubb.github.io/blob/master/assets/images/fassbender.png
+[wiegert]: https://raw.githubusercontent.com/swubb/swubb.github.io/blob/master/assets/images/wiegert.png
+[nwords]: https://raw.githubusercontent.comm/swubb/swubb.github.io/blob/master/assets/images/nbwords.png
+[nunique]: https://raw.githubusercontent.comm/swubb/swubb.github.io/blob/master/assets/images/nunique.png
+[nbigrams]: https://raw.githubusercontent.com/swubb/swubb.github.io/blob/master/assets/images/nbigrams.png
 
