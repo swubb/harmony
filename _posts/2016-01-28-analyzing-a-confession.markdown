@@ -68,13 +68,14 @@ Analyzing the most frequently used words by all parties, it becomes clear that B
 
 Next, we can have a look at the total words that are uttered during the interview. 
 
-![nbwords]
+![nwords]
 
 Interesting is that both Fassbender and Wieger talk more than Brendan in the beginning of the interview, and that Fassbender seems to get be more prominent nearing the end. Brendan is very consistent, reaffirming his role as acknowledging. We can see that the interrogators together have uttered around 22.000 words while Brendan has only uttered 10.000.
 
 ###Unique words uttered during the interview
 
 More interesting are the unique words uttered during the interrogation. Basically, repeating a word probably doesn't bring new information into the conversation, so only looking at new words that haven't been uttered by any of the parties before might give some more insight into who brings new info to the table.
+
 ![nunique]
 
 As we see here, the difference becomes only bigger. Both detectives utter more new words than Brendan, roughly 1100 versus 450. Interesting is the beginning of the conversation, where both detectives are uttering a lot of new words and Brendan is not really adding anything. 
