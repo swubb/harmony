@@ -11,7 +11,7 @@ permalink: confession
 **Warning:** this blog post contains spoilers for the Netflix documentary series Making a Murderer
 
 ### Brendan Dassey's confession
-If you haven't seen the true crime documentary series [Making a Murderer](https://en.wikipedia.org/wiki/Making_a_Murderer) yet, go watch it! The Netflix series gives a fascinating -yet disturbing- insight in the  American justice system and how it seems to fail to adhere to the principle of guilty beyond reasonable doubt. 
+If you haven't seen the true crime documentary series [Making a Murderer](https://en.wikipedia.org/wiki/Making_a_Murderer) yet, go watch it! The Netflix series gives a fascinating -yet disturbing- insight into the  American justice system and how it seems to fail to adhere to the principle of guilty beyond reasonable doubt. 
 
 ![confession]
 
