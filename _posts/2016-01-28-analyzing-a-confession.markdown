@@ -64,9 +64,6 @@ Analyzing the most frequently used words by all parties, it becomes clear that B
 [brendan]
 [brendan]
 
-
-
-
 ###Words uttered during the interview
 
 [nwords]
@@ -91,10 +88,10 @@ I did some very simple visualization of the Brendan Dassey interrogation. A lot 
 
 
 
-[brendan]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[fassbender]:
-[wiegert]:
-[nwords]:
-[nunique]:
-[nbigrams]
+[brendan]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/brendan.png
+[fassbender]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/fassbender.png
+[wiegert]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/wiegert.png
+[nwords]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/nbwords.png
+[nunique]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/nunique.png
+[nbigrams]: https://github.com/swubb/swubb.github.io/blob/master/assets/images/nbigrams.png
 
