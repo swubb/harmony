@@ -66,17 +66,20 @@ Analyzing the most frequently used words by all parties, it becomes clear that B
 
 ###Words uttered during the interview
 
-![nwords]
+![nbwords]
+
 Next, we can have a look at the total words that are uttered during the interview. Interesting is that both Fassbender and Wieger talk more than Brendan in the beginning of the interview, and that Fassbender seems to get be more prominent nearing the end. Brendan is very consistent, reaffirming his role as acknowledging. We can see that the interrogators together have uttered around 22.000 words while Brendan has only uttered 10.000.
 
 ###Unique words uttered during the interview
 ![nunique]
+
 More interesting are the unique words uttered during the interrogation. Basically, repeating a word probably doesn't bring new information into the conversation, so only looking at new words that haven't been uttered by any of the parties before might give some more insight into who brings new info to the table.
 
 As we see here, the difference becomes only bigger. Both detectives utter more new words than Brendan, roughly 1100 versus 450. Interesting is the beginning of the conversation, where both detectives are uttering a lot of new words and Brendan is not really adding anything. 
 
 ###Unique bigrams uttered during the interview
 ![nbigrams]
+
 Words can take us only so far. There are a limited number of words that we can use, but we can use them to convey information in lots of ways: 'Mary slaps John' and 'John slaps Mary' contain the same words but have different meanings. So. let's look at combination of words, so-called *n-grams*. Let's look at all the unique pairs of consecutive words, called bigrams. Now we really see where the information comes from: it's mainly Fassbender who brings new information to the table.
 
 
