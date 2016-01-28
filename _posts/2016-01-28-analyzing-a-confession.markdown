@@ -84,7 +84,7 @@ Words can take us only so far. There are a limited number of words that we can u
 ###Concluding
 I did some very simple visualization of the Brendan Dassey interrogation. We can see that most of the new information during the interrogation was offered by the detectives. Of course there are a lot of things to consider. For example, many topics are discussed during the interrogation, not just the confession to the murder and rape. There might also be some noise in the data resulting from transcription and OCR errors. This analysis just paints a general picture. It would be interesting to compare this to other known false confessions and also compare to confessions that actually lead to new information which was verified by actual evidence. Would there be similar patterns? A lot more analyses could be performed on the data: measuring perplexity of the speakers (how predictable are their utterances?), topic modelling (who talks about what), etc.
 
-Anyone who wants to dive in, go ahead: the Python notebook and the interrogation text file can be found [here] (https://github.com/swubb/analyzing-a-confession)
+Anyone who wants to dive in, go ahead: the Python notebook and the interrogation text file can be found [here](https://github.com/swubb/analyzing-a-confession)
 
 
 
