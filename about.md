@@ -19,7 +19,7 @@ In this project a toolkit is developed to aid journalists in the process of writ
 With [Emiel Krahmer][emiel] I am supervising Thiago Castro Ferreira on his PhD project on the variation in referring expression generation. 
 
 ####Teaching
-I have supervised over 30 Master anf Bachelor theses and taught a.o. the following courses:
+I have supervised over 30 Master and Bachelor theses and taught a.o. the following courses:
 
 * Information search 
 * Social intelligence
@@ -28,10 +28,15 @@ I have supervised over 30 Master anf Bachelor theses and taught a.o. the followi
 * Text analysis
 * Online Marketing
 
+I was involved in developing iPython notebooks for an introductory Python course. For the course we set up a Jupyterhub server for the students to work on.
+
+The notebooks can be found [here][pythoncourse].
+
 
 
 [ticc]: https://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/
 [discosumo]: http://discosumo.ruhosting.nl
 [emiel]: http://www.emielkrahmer.nl/
+[pythoncourse]: https://github.com/kadarakos/python-course
 
 
