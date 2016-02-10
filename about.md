@@ -28,7 +28,7 @@ I have supervised over 30 Master and Bachelor theses and taught a.o. the followi
 * Text analysis
 * Online Marketing
 
-I was involved in developing iPython notebooks for an introductory Python course. For the course we set up a Jupyterhub server for the students to work on.
+
 
 
 
