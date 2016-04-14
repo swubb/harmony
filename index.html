@@ -1,39 +1,39 @@
 ---
-layout: default
+layout: page
+title: About me
+permalink: /about/
 ---
-<div id="home" class="page-content wc-container">
-	<div class="posts">
-  		{% for post in site.posts limit:10 %}
-  			<div class="post">
-    			<h3 class="post-title">
-			      <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
-			        {{ post.title }}
-			      </a>
-    			</h3>
 
-          <p class="post-meta">
-            {% if (post.categories.size > 0 %}
-            <span class="categories">
-            {{ post.categories | array_to_sentence_string }}
-            </span> |
-            {% endif %}
-            <span class="post-date">
-            {{ post.date | date: "%b %-d, %Y" }} 
-            </span>
-          </p>          
-    			    			
-  				<p>
-	  				{{ post.excerpt }}	
-  				</p>
-  				<p>
-  					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title}}">
-  						Read More
-					</a>
-  				</p>
-  			</div>
-  		{% endfor %}
-	</div>
-	<div class="post-footer">
-		<div class="column-full"><a href="{{ '/blog' | prepend: site.baseurl | prepend: site.url }}">Blog archive</a></div>
-	</div>
-</div>
+Hello! I am an Assistant Professor at the [Tilburg Center for Cognition and Communication][ticc] at Tilburg University. My fields of interest are Natural Language Generation and Natural Language Processing. Currently I’m mainly working on sequence to sequence generation, with applications in the domains of sentence simplification, summarization and paraphrasing. Below is an overview of the projects I'm involved in.
+
+
+#### DISCOSUMO
+
+In the [DISCOSUMO][discosumo] project we are developing a summarization system for forum threads. We are interested in selecting and summarizing forum post that are relevant for the opening post, and may or may not contain conflicting viewpoints or other subjective information.
+
+#### NLG for Robot Journalism
+In this project a toolkit is developed to aid journalists in the process of writing articles. This system will automate the process of optimizing the readability of the written text. Additionally, we develop an NLG system that takes care of writing articles that would otherwise be monotonous to write for human editors.
+
+#### Variation in referring expression generation
+
+With [Emiel Krahmer][emiel] I am supervising Thiago Castro Ferreira on his PhD project on the variation in referring expression generation. 
+
+#### Teaching
+I have supervised over 30 Master and Bachelor theses and taught a.o. the following courses:
+
+* Information search 
+* Social intelligence
+* Various courses on [Data Processing with Python][pythoncourse]
+* Interactive Visualization
+* Text analysis
+* Online Marketing
+
+
+
+
+
+[ticc]: https://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/
+[discosumo]: http://discosumo.ruhosting.nl
+[emiel]: http://www.emielkrahmer.nl/
+[pythoncourse]: https://github.com/kadarakos/python-course
+
