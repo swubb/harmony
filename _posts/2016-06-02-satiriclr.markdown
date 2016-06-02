@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SatiricLR: a language resource of Satirical News Articles"
+title:  "satiriclr"
 date:   2016-06-02 23:33:0
 description: At LREC I the Satirical Language Resource. A dataset containing a balanced collection of satire and non satire news articles in various domains.
 categories:
