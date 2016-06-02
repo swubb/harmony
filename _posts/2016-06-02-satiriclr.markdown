@@ -12,6 +12,6 @@ The poster can be found below
 ![poster]
 
 
-[poster]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/satriclr.png
+[poster]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/satricLR_poster.png
 [nunique]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/nunique.png
 [nbigrams]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/nbigrams.png
