@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Analyzing a Confession"
+title:  "SatiricLR: a language resource of Satirical News Articles"
 date:   2016-01-27 23:33:0
 description: A computational look at the Brendan Dassey confession made famous by Making a Murderer
 categories:
