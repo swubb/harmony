@@ -2,7 +2,7 @@
 layout: post
 title:  "SatiricLR: a language resource of Satirical News Articles"
 date:   2016-06-02 23:33:0
-description: We introduce the Satirical Language Resource: a dataset containing a balanced collection of satirical and non satirical news texts from various domains.
+description: .
 categories:
 - blog
 permalink: satiriclr
