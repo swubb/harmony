@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "SatiricLR: a language resource of Satirical News Articles"
-date:   2016-01-27 23:33:0
-description: A computational look at the Brendan Dassey confession made famous by Making a Murderer
+date:   2016-06-02 23:33:0
+description: We introduce the Satirical Language Resource: a dataset containing a balanced collection of satirical and non satirical news texts from various domains.
 categories:
 - blog
-permalink: confession
+permalink: satiriclr
 ---
 
 **Warning:** this blog post contains spoilers for the Netflix documentary series Making a Murderer
