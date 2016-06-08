@@ -7,6 +7,7 @@ categories:
 - blog
 permalink: satiriclr
 ---
+
 At LREC I presented our paper on the Satirical Language Resource: a dataset containing a balanced collection of satire and non satire news articles in various domains. The poster can be found below!
 
 ![poster]
