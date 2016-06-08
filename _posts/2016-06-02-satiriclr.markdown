@@ -13,5 +13,3 @@ At LREC I presented our paper on the Satirical Language Resource: a dataset cont
 
 
 [poster]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/satiricLR_poster.png
-[nunique]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/nunique.png
-[nbigrams]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/nbigrams.png
