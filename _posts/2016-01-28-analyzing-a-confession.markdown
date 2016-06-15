@@ -15,7 +15,7 @@ If you haven't seen the true crime documentary series [Making a Murderer](https:
 
 ![confession]
 
-One of the most cringe worthy things we see in the documentary is the confession of Steven's nephew, Brendan Dassey. Brendan is a boy with learning disabilities and is interrogated without any help present by two trained policemen for 6 hours. In this interrogation Brendan confesses helping Steven Avery rape and murder Theresa Halbach. It is this confession alone that leads to his conviction for life and it helps in the conviction of Steven Avery. We see some  parts of the interrogation in the documentary, such as the part below.
+One of the most cringe worthy things we see in the documentary is the confession of Steven's nephew, Brendan Dassey. Brendan is a boy with learning disabilities and is interrogated without any help present by two trained policemen (Fassbender and Wiegert) for 6 hours. In this interrogation Brendan confesses helping Steven Avery rape and murder Theresa Halbach. It is this confession alone that leads to his conviction for life and it helps in the conviction of Steven Avery. We see some  parts of the interrogation in the documentary, such as the part below.
 
 > FASSBENDER: Did he say why he wanted you to do that?
 
@@ -56,10 +56,11 @@ One of the most cringe worthy things we see in the documentary is the confession
 As it is kind of hard to analyze 4+ hours of video, I wanted to see if I could do some automatic analysis of the interview. The goal is to gain a little insight in the interrogation, in particular to what extent the detectives spoonfed the confession to Brendan.
 
 ### Getting the data
+
 Luckily, a PDF transcipt of the interview is available [here](https://www.docdroid.net/ZSo3Oc1/01mar2006transcript.pdf.html).
 I downloaded the PDF and performed OCR (using Google Docs) to extract the text. I then did some very simple computational analyses of the text using Python.
 
-###Word clouds
+### Word clouds
 
 ![brendan]
 ![fassbender]
@@ -68,7 +69,7 @@ I downloaded the PDF and performed OCR (using Google Docs) to extract the text. 
 Analyzing the most frequently used words by all parties, it becomes clear that Brendan acknowledges a lot of the questions asked to him. Frequent words for Fassbender are *Brendan, tell, us*. That seems about right. Also note that the detectives frequently use the words *honest, truth, anything*. This is something we also saw in the documentary: whenever Brendan tells the detectives a thing that doesn't fit their narrative, they tell him to be honest and tell the truth, nutil he gets it 'right'. Guessing, just like in school.
 
 
-###Words uttered during the interview
+### Words uttered during the interview
 
 Next, we can have a look at the total words that are uttered during the interview. 
 
@@ -93,7 +94,7 @@ Words can take us only so far. There are a limited number of words that we can u
 Interesting is that during the later stage of the interrogation Fassbender is adding a lot of new information to the conversation. 
 
 
-###Concluding
+### Concluding
 I did some very simple visualization of the Brendan Dassey interrogation. We can see that most of the new information during the interrogation was offered by the detectives. Of course there are a lot of things to consider. For example, many topics are discussed during the interrogation, not just the confession to the murder and rape. There might also be some noise in the data resulting from transcription and OCR errors. This analysis just paints a general picture. It would be interesting to compare this to other known false confessions and also compare to confessions that actually lead to new information which was verified by actual evidence. Would there be similar patterns? A lot more analyses could be performed on the data: measuring perplexity of the speakers (how predictable are their utterances?), topic modelling (who talks about what), etc.
 
 Anyone who wants to dive in, go ahead: the Python notebook and the interrogation text file can be found [here](https://github.com/swubb/analyzing-a-confession)
