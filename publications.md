@@ -3,10 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-#### 2015
-
-
-
+#### 2016
 <b>Individual Variation in the Choice of Referential Form </b> Thiago Castro Ferreira, Emiel Krahmer and Sander Wubben. In <i>Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</i>, pp. 423-427, San Diego, California, June 2016 [<a href="http://www.aclweb.org/anthology/N16-1048"> pdf </a> ][ <a href="http://aclweb.org/anthology/N/N16/N16-1048.bib"> bib </a> ]
 
 <b>SatiricLR: a Language Resource of Satirical News Articles </b> Alice Frain & Sander Wubben. In <i>Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)</i>, Portorož, Slovenia, 23-28 May 2016 [<a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/1209_Paper.pdf"> pdf </a> ][ <a href="https://github.com/swubb/satiriclr"> data </a> ]
