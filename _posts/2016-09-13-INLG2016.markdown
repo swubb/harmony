@@ -13,4 +13,4 @@ permalink: inlg2016
 ![poster]
 
 
-[poster]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/INGL2016_poster.png
+[poster]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/INLG2016_poster.png
