@@ -8,7 +8,7 @@ categories:
 permalink: inlg2016
 ---
 
- I presented work on abstractive compression with attentive RNNs at the INLG conference in Edinburgh. The poster is below!
+ I presented our work on abstractive compression with attentive RNNs at the INLG conference in Edinburgh. We paired long with short image descriptions and trained an attentive bidirectional LSTM on those pairs. We show that the resulting generated compressions are abstractive and are comparable with human written compressions in terms of quality of form and content. The poster is below!
  
 ![poster]
 
