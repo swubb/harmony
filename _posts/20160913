@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Abstractive Compression of Captions with Attentive Recurrent Neural Networks"
+date:   2016-09-13 23:33:0
+description: Abstractive compression with RNNs
+categories:
+- blog
+permalink: inlg2016
+---
+
+ I presented work on abstractive compression with attentive RNNs at the INLG conference in Edinburgh. The poster is below!
+ 
+![poster]
+
+
+[poster]: https://raw.githubusercontent.com/swubb/swubb.github.io/master/assets/images/INGL2016_poster.png
